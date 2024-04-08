@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vreqst-deploy/static/css/main.246c8ac2.chunk.css",
+    "main.js": "/vreqst-deploy/static/js/main.8ebc7c99.chunk.js",
+    "main.js.map": "/vreqst-deploy/static/js/main.8ebc7c99.chunk.js.map",
+    "runtime-main.js": "/vreqst-deploy/static/js/runtime-main.b8a7c6fe.js",
+    "runtime-main.js.map": "/vreqst-deploy/static/js/runtime-main.b8a7c6fe.js.map",
+    "static/js/2.beda2708.chunk.js": "/vreqst-deploy/static/js/2.beda2708.chunk.js",
+    "static/js/2.beda2708.chunk.js.map": "/vreqst-deploy/static/js/2.beda2708.chunk.js.map",
+    "index.html": "/vreqst-deploy/index.html",
+    "precache-manifest.1bf8f38b1982e985dc3e57114145e04e.js": "/vreqst-deploy/precache-manifest.1bf8f38b1982e985dc3e57114145e04e.js",
+    "service-worker.js": "/vreqst-deploy/service-worker.js",
+    "static/css/main.246c8ac2.chunk.css.map": "/vreqst-deploy/static/css/main.246c8ac2.chunk.css.map",
+    "static/js/2.beda2708.chunk.js.LICENSE.txt": "/vreqst-deploy/static/js/2.beda2708.chunk.js.LICENSE.txt",
+    "static/media/action.txt": "/vreqst-deploy/static/media/action.fdb795e9.txt",
+    "static/media/asset.txt": "/vreqst-deploy/static/media/asset.a80fba56.txt",
+    "static/media/scene.txt": "/vreqst-deploy/static/media/scene.a7a93f0d.txt",
+    "static/media/timeline.txt": "/vreqst-deploy/static/media/timeline.44f05b74.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a7c6fe.js",
+    "static/js/2.beda2708.chunk.js",
+    "static/css/main.246c8ac2.chunk.css",
+    "static/js/main.8ebc7c99.chunk.js"
+  ]
+}
