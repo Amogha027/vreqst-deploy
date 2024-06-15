@@ -45,7 +45,7 @@ const Project = () => {
         headers: { "Content-Type": "application/json", token: jwttoken },
       };
       const res = await axios.post(
-        "api/project/new",
+        backend + "api/project/new",
         { name: projectName, grammarName: grammarName },
         requestOptions
       );
